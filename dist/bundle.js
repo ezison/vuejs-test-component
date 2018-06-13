@@ -190,7 +190,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _nod
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _components_Hello_vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./components/Hello.vue */ \"./components/Hello.vue\");\n/* harmony import */ var _components_Flow_vue__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./components/Flow.vue */ \"./components/Flow.vue\");\n\n\n\n\n//# sourceURL=webpack:///./index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _components_Hello_vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./components/Hello.vue */ \"./components/Hello.vue\");\n/* harmony import */ var _components_Flow_vue__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./components/Flow.vue */ \"./components/Flow.vue\");\n\n\n\n\t\t$(function() {\n\n\t\t\tnew Vue({\n\t\t\t  el: '#app',\n\t\t\t  components: {\n\t\t\t     Flow: _components_Flow_vue__WEBPACK_IMPORTED_MODULE_1__[\"default\"]\n\t\t\t  }\n\t\t\t})\n\n\t\t})\n\n\n//# sourceURL=webpack:///./index.js?");
 
 /***/ }),
 
